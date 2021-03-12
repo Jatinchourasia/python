@@ -4,3 +4,5 @@
 
 li =[1,2,3,True,"jsdi"]
 print(li[3])
+
+# list slicing
